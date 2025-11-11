@@ -7,11 +7,6 @@
 //  
 ///
 
-
-/*
-ffmpeg -framerate 60 -i frame_%02d.jpg -pix_fmt yuv420p mandel.mp4
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
